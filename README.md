@@ -20,14 +20,10 @@
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-  
-  <br>
 </div>
-<br>
-<br>
 
----
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomeee11&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomeee11&layout=donut-vertical)](https://github.com/tomeee11/github-readme-stats&exclude_repo=mypage_temp,mypage,mypage_login,mypage_movies,mypage_fan,verdantjulycodingtest,spamall_socket)
 </div>
